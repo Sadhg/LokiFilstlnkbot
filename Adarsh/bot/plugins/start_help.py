@@ -23,14 +23,14 @@ if MY_PASS:
             resize_keyboard=True
         )
 else:
-            buttonz=ReplyKeyboardMarkup(
-            [
-                ["start⚡️","help📚","DC"],
-                ["follow❤️","ping📡","status📊"]
+         #   buttonz=ReplyKeyboardMarkup(
+           # [
+             #   ["start⚡️","help📚","DC"],
+             #   ["follow❤️","ping📡","status📊"]
                         
             ],
-            resize_keyboard=True
-        )
+           # resize_keyboard=True
+     #   )
 
             
             
