@@ -1,4 +1,4 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
+ <! ––  ![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
 ![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
 
@@ -92,7 +92,7 @@ python3 -m Adarsh
 
 and to stop the whole bot,
  do <kbd>CTRL</kbd>+<kbd>C</kbd>
-
+––>
  </details>
 
 Setting up things
