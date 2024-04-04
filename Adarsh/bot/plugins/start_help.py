@@ -130,5 +130,5 @@ async def help_handler(bot, message):
          #   [
      #           [InlineKeyboardButton("💁‍♂️ DEV", url="https://t.me/lokiupd24")]
         #             ]
-        )
+       # )
     )
