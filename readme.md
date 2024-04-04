@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
 ![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
 
- ––>
+ 
  
 <h1 align="center"></h1>
 <p align="center"> 
@@ -172,3 +172,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Me](https://github.com/adarsh-goel)
 - Everyone In This Journey !
+
+––>
