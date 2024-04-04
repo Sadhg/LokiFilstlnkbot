@@ -28,7 +28,7 @@ else:
              #   ["start⚡️","help📚","DC"],
              #   ["follow❤️","ping📡","status📊"]
                         
-            ],
+           # ],
            # resize_keyboard=True
      #   )
 
