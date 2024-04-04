@@ -121,7 +121,7 @@ async def help_handler(bot, message):
             return
     await message.reply_text(
         text="""<b> Send me a file or video i will give you streamable link and download link.</b>\n
-<b> sᴘᴀᴍ = ʙᴀɴ  𝗣𝗢𝗥𝗡🔞 = ʙᴀɴ   \n  """,
+<b> sᴘᴀᴍ = ʙᴀɴ </b> \n <b>  𝗣𝗢𝗥𝗡🔞 = ʙᴀɴ   </b> """,
         
         disable_web_page_preview=True,
       #  reply_markup=InlineKeyboardMarkup(
