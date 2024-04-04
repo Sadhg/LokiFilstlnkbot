@@ -1,8 +1,9 @@
- <! ––  ![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
+ <!––  ![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
 ![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
 
-
+ ––>
+ 
 <h1 align="center"></h1>
 <p align="center"> 
   <img src="https://socialify.git.ci/adarsh-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
@@ -18,7 +19,7 @@
     <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
   </p>
 
-
+––>
 <hr>
 
 #### Please give a ⭐ to this repository to appreciate my efforts and follow me so you that you get to know whenever I release a new Project!
